@@ -1,0 +1,21 @@
+{
+  "name": "esqueleto-basico",
+  "description": "Esqueleto súper básico",
+  "locale": "es-cr",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.9.x",
+    "jade": "1.7.x",
+    "view-helpers": "0.1.x",
+    "body-parser": "1.8.x",
+    "serve-favicon": "2.1.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "2.0.x"
+  },
+  "author": {
+    "name": "Martin",
+    "email": "martin@interaction.cr"
+  }
+}
